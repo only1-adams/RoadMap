@@ -9,7 +9,7 @@ module.exports = {
 				appBlue: "#004567",
 			},
 			fontFamily: {
-				custom: "Sora, sans-serif",
+				custom: "Raleway, sans-serif",
 			},
 			dropShadow: {
 				custom: "10px 10px 50px 0px rgba(0, 0, 0, 0.10)",
